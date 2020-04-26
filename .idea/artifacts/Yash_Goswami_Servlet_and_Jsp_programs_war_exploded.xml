@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Yash_Goswami_Servlet_and_Jsp_programs:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yash_Goswami_Servlet_and_Jsp_programs_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Yash_Goswami_Servlet_and_Jsp_programs/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Yash_Goswami_Servlet_and_Jsp_programs" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
