@@ -1,4 +1,4 @@
-package DATA_STRUCTURE;
+package IT2K1762DataStructure;
 
 public class MaxHeapExample {
     static boolean isHeap(int arr[], int i, int n) {

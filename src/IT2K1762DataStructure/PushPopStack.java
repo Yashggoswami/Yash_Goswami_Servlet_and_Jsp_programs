@@ -1,4 +1,4 @@
-package DATA_STRUCTURE;
+package IT2K1762DataStructure;
 import java.util.Iterator;
 import java.util.Stack;
 public class PushPopStack {

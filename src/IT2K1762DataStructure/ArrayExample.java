@@ -1,4 +1,4 @@
-package DATA_STRUCTURE;
+package IT2K1762DataStructure;
 
 public class ArrayExample {
     public static void main(String[] args) {

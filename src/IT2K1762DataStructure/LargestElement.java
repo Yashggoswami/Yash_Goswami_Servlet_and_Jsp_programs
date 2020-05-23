@@ -1,4 +1,4 @@
-package DATA_STRUCTURE;
+package IT2K1762DataStructure;
 
 import java.util.Arrays;
 import java.util.Collections;
